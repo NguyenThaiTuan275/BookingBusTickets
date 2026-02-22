@@ -11,7 +11,8 @@
 ## 📂 Structure
 Booking/
  ├── api
- └── client
+ 
+           └── client
 
 ## ⚙ Installation
 
