@@ -16,11 +16,11 @@ Booking/
 ## ⚙ Installation
 
 ### Backend
-cd api
-pnpm install
-pnpm start
+- cd api
+- pnpm install
+- pnpm start
 
 ### Frontend
-cd client
-pnpm install
-pnpm run dev
+- cd client
+- pnpm install
+- pnpm run dev
